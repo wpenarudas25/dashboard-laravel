@@ -7,7 +7,7 @@
         <span class="text-white">
             <strong>Add, Edit, Delete features are not functional!</strong> This is a
             <strong>PRO</strong> feature! Click <strong>
-            <a href="https://www.creative-tim.com/live/soft-ui-dashboard-pro-laravel" target="_blank" class="text-white">here</a></strong>
+            <a href="#" target="_blank" class="text-white">here</a></strong>
             to see the PRO product!
         </span>
     </div>
