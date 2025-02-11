@@ -192,7 +192,7 @@
           <span class="nav-link-text ms-1">Sign Up</span>
         </a>
       </li>
-      <li class="nav-link mb-0">
+      <li class="nav-link mb-0 d-none">
         <a href="#" class="btn btn-primary btn-md active px-5 text-white" target="_blank" role="button" aria-pressed="true">
             Upgrade to PRO</a>
       </li>
