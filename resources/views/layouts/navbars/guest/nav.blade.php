@@ -40,9 +40,9 @@
           </a>
         </li>
       </ul>
-      <ul class="navbar-nav d-lg-block d-none">
+      <ul class="navbar-nav d-lg-block">
         <li class="nav-item">
-          <a href="#" target="_blank" class="btn btn-sm btn-round mb-0 me-1 bg-gradient-{{ (Request::is('static-sign-up') ? 'light' : 'dark') }}">Free download</a>
+          <a href="#" class="btn btn-sm btn-round mb-0 me-1 bg-gradient-{{ (Request::is('static-sign-up') ? 'light' : 'dark') }}">See more</a>
         </li>
       </ul>
     </div>
